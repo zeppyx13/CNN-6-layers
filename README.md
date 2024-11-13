@@ -9,11 +9,14 @@ To use this code, download the required libraries. and create a folder cnamed da
 ## folder structure
 
 ```bash
-  /datasets
+  /Datasets
       /train
           /class1
           /class2
       /validation
+          /class1
+          /class2
+      /images_split
           /class1
           /class2
 ```
